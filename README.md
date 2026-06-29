@@ -28,9 +28,9 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
 # HOW TO OPEN SERVER:
 
-**1-** Download hlds_lan from [here](https://github.com/happyhere-TN/HLDS_LAN_MOBILE/releases/download/HLDS_LAN/hlds_lan_+gamemods.zip) and extract it on download folder on mobile and install all the apks u find
+**1-** Download xash_lan from [here](https://github.com/happyhere-TN/HLDS_LAN_MOBILE/releases/download/HLDS_LAN/hlds_lan_+gamemods.zip) and extract it on download folder on mobile and install all the apks u find
 
-**2-** after installing one of this emulators (mobox-winlator-exagear) open it and go to (D:/hlds-wine)
+**2-** after installing one of this emulators (mobox-winlator-exagear) open it and go to (D:/xash-wine)
 
 **3-** and now select server u wont from this files to open:
   
@@ -62,14 +62,12 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
  
  connect localhost:27015 48
 
- **with cs16amx:**   
+ **with cs16Admin_amx:**   
 
  dont tipe any thing automatic conecting when u join to apk
 
 **with xash3d apk (hl) tipe on console:** 
-                                      
- new engine apk  connect localhost:27015 48
                                        
- old engine apk  connect localhost:27015
+connect localhost:27015
                             
  thats is and havefane :)
